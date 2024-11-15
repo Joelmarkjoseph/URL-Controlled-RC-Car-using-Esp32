@@ -6,7 +6,7 @@ const int motor2Pin1 = 27;
 const int motor2Pin2 = 14;
 
 const char* ssid = "JMJ WIFI";
-const char* password = "joel mark jmj@2";
+const char* password = "********";
 
 WiFiServer server(80);
 
